@@ -1,4 +1,1 @@
-# practice
-welcome to the jungle
-
-im just practicin' this stuff
+Credit: [this](https://blackrockdigital.github.io/startbootstrap-landing-page/)
